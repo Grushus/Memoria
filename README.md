@@ -53,6 +53,7 @@ git clone https://github.com/Grushus/Memoria
 cd memoria
 
 2. Install dependencies
+npm install
 
 3. Create a supabase project at supabase.com
 - Run supabase/schema.sql
