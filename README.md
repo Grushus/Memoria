@@ -49,11 +49,11 @@ Prerequisites:
 - Mistral API key
 
 1. Clone the repository
-git clone https://github.com/Grushus/Memoria
-cd memoria
+- git clone https://github.com/Grushus/Memoria
+- cd memoria
 
 2. Install dependencies
-npm install
+- npm install
 
 3. Create a supabase project at supabase.com
 - Run supabase/schema.sql
@@ -62,7 +62,7 @@ npm install
 - Run supabase/trigger_new_user.sql
 
 4. Add environment variables
-Create .env.local file in the root:
+- Create .env.local file in the root:
 - EXPO_PUBLIC_SUPABASE_URL=your_supabase_url
 - EXPO_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
 - EXPO_PUBLIC_MISTRAL_API_KEY=your_mistral_api_key
