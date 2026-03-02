@@ -1,6 +1,6 @@
 # Memoria
 
-***Built as a solo with the help of Claude Code for the Mistral AI Hackathon.***
+***Built solo with the help of Claude Code for the Mistral AI Hackathon.***
 
 A real world photo journal and collector app. You point your camera at something; an animal, a plant, a landmark, a food and Mistral's vision AI identifies it, logs it to a global registry, and tells you whether you're the first person in the world to capture it.
 
@@ -30,7 +30,7 @@ How it works: Each photo is unique and taken in the app. No photos can be upload
 
 ### Models used:
 - Pixtral-12b (Vision + Classification (Image > Entry Type, Name, Category, Subcategory, 
-- Minstral-8b (Text generation, name + description + fun fact)
+- Ministral-8b (Text generation, name + description + fun fact)
 - Voxtral (For TTS)
 
 ### Tech Stack:
